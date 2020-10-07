@@ -1,0 +1,22 @@
+
+@font-face {
+	font-family: 'Conv_Unix_heart_emboss-U';
+	src: url('..fonts/Unix_heart_emboss-U.eot');
+	src: local('☺'), url('../fonts/Unix_heart_emboss-U.woff') format('woff'), url('../fonts/Unix_heart_emboss-U.ttf') format('truetype'), url('../fonts/Unix_heart_emboss-U.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+h1 {
+    color: red;
+    font-family: 'Conv_Unix_heart_emboss-U' ;
+}
+h2 {
+    color: blue;
+    font-family: 'Conv_Unix_heart_emboss-U';
+}
+p {
+    font-family: 'Conv_Unix_heart_emboss-U';
+    /* font-weight: bold; */
+    font-size: 22px;
+
+}
